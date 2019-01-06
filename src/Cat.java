@@ -6,6 +6,7 @@ public class Cat {
   private int age;
   private Person owner;
 
+
   public Cat() {
   }
 
@@ -44,4 +45,5 @@ public class Cat {
   public Person getOwner() {
     return owner;
   }
+
 }

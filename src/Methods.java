@@ -15,5 +15,10 @@ public class Methods {
     public static String toLowerCase(String word){
     return word.toLowerCase();
     }
+
+    public static boolean isMultiple(int num1, int num2){
+    if (num2/num1){
+    }
+
   }
 
